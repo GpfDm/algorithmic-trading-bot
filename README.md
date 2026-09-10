@@ -74,7 +74,7 @@ The original goal of this project — building an algorithm that trades automati
 ## Installation / usage
 ```bash
 git clone https://github.com/yourusername/algorithmic-trading-bot
-cd long10min
+cd algorithmic-trading-bot
 
 # Create and activate a virtual environment (Python 3.9)
 python3.9 -m venv venv
