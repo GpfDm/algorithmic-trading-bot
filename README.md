@@ -73,7 +73,7 @@ The original goal of this project — building an algorithm that trades automati
 
 ## Installation / usage
 ```bash
-git clone https://github.com/yourusername/long10min.git
+git clone https://github.com/yourusername/algorithmic-trading-bot
 cd long10min
 
 # Create and activate a virtual environment (Python 3.9)
